@@ -8,6 +8,12 @@
     "contact": "Kontakt",
     "resume": "Lebenslauf"
   },
+  "testimonials": {
+    "label": "kundenfeedback",
+    "title": "Was Kunden Sagen",
+    "subtitle": "Feedback von Teams, für die ich KI-Systeme gebaut habe — RAG, Computer Vision und Full-Stack.",
+    "note": "Namen und Details mit Erlaubnis geteilt. Einige Details per NDA anonymisiert."
+  },
   "process": {
     "label": "so arbeite ich",
     "title": "So Arbeite Ich Mit Ihnen",

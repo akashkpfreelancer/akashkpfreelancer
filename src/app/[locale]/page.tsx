@@ -2,6 +2,7 @@ import Hero from "@/components/sections/Hero";
 import Services from "@/components/sections/Services";
 import Process from "@/components/sections/Process";
 import Work from "@/components/sections/Work";
+import Testimonials from "@/components/sections/Testimonials";
 import Playground from "@/components/sections/Playground";
 import About from "@/components/sections/About";
 import SocialProof from "@/components/sections/SocialProof";
@@ -14,6 +15,7 @@ export default function HomePage() {
       <Services />
       <Process />
       <Work />
+      <Testimonials />
       <Playground />
       <About />
       <SocialProof />

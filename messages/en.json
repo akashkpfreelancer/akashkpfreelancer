@@ -8,6 +8,12 @@
     "contact": "Contact",
     "resume": "Resume"
   },
+  "testimonials": {
+    "label": "client feedback",
+    "title": "What Clients Say",
+    "subtitle": "Feedback from teams I've built AI systems for — across RAG, computer vision, and full-stack.",
+    "note": "Names and company details shared with permission. Some details anonymized per NDA."
+  },
   "process": {
     "label": "how it works",
     "title": "How I Work With You",

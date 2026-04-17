@@ -8,6 +8,12 @@
     "contact": "Contato",
     "resume": "Currículo"
   },
+  "testimonials": {
+    "label": "feedback de clientes",
+    "title": "O Que os Clientes Dizem",
+    "subtitle": "Feedback de equipes para as quais construí sistemas de IA — RAG, visão computacional e full-stack.",
+    "note": "Nomes e detalhes compartilhados com permissão. Alguns detalhes anonimizados por NDA."
+  },
   "process": {
     "label": "como funciona",
     "title": "Como Trabalho Com Você",

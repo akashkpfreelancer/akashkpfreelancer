@@ -8,6 +8,12 @@
     "contact": "Contacto",
     "resume": "CV"
   },
+  "testimonials": {
+    "label": "opiniones de clientes",
+    "title": "Lo Que Dicen los Clientes",
+    "subtitle": "Opiniones de equipos para los que construí sistemas de IA — RAG, visión por computadora y full-stack.",
+    "note": "Nombres y detalles compartidos con permiso. Algunos detalles anonimizados por NDA."
+  },
   "process": {
     "label": "cómo trabajo",
     "title": "Cómo Trabajo Contigo",
