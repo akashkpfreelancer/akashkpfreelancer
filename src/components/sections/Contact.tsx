@@ -129,6 +129,8 @@ export default function Contact() {
                   <div>
                     <Input
                       {...register("name")}
+                      id="contact-name"
+                      aria-label={t("form_name")}
                       placeholder={t("form_name")}
                       className="bg-background border-border"
                     />
@@ -139,6 +141,8 @@ export default function Contact() {
                   <div>
                     <Input
                       {...register("email")}
+                      id="contact-email"
+                      aria-label={t("form_email")}
                       type="email"
                       placeholder={t("form_email")}
                       className="bg-background border-border"
@@ -151,6 +155,8 @@ export default function Contact() {
                 <div>
                   <Textarea
                     {...register("project")}
+                    id="contact-project"
+                    aria-label={t("form_project")}
                     placeholder={t("form_project")}
                     rows={4}
                     className="bg-background border-border resize-none"
@@ -161,6 +167,8 @@ export default function Contact() {
                 </div>
                 <Input
                   {...register("budget")}
+                  id="contact-budget"
+                  aria-label={t("form_budget")}
                   placeholder={t("form_budget")}
                   className="bg-background border-border"
                 />

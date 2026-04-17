@@ -93,10 +93,11 @@ Answer questions clearly and technically. When relevant, explain how RAG systems
         >
           {/* API Key input */}
           <div className="p-4 border-b border-border bg-muted/30">
-            <label className="flex items-center gap-2 text-xs font-mono text-muted-foreground mb-2">
+            <label htmlFor="pg-api-key" className="flex items-center gap-2 text-xs font-mono text-muted-foreground mb-2">
               <Key size={11} /> {t("key_label")}
             </label>
             <Input
+              id="pg-api-key"
               type="password"
               value={apiKey}
               onChange={(e) => { setApiKey(e.target.value); setError(""); }}
@@ -183,6 +184,7 @@ Answer questions clearly and technically. When relevant, explain how RAG systems
                 if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); sendMessage(); }
               }}
               placeholder={t("query_placeholder")}
+              aria-label={t("query_placeholder")}
               rows={1}
               className="resize-none text-sm bg-background border-border min-h-[40px] max-h-32"
             />

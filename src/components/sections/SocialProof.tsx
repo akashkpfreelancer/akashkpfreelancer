@@ -44,6 +44,7 @@ export default function SocialProof() {
             href="https://youtube.com/@coderakash"
             target="_blank"
             rel="noopener noreferrer"
+            aria-label="Akash Code Cafe on YouTube"
             initial={{ opacity: 0, y: 24 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
@@ -81,6 +82,7 @@ export default function SocialProof() {
             href="https://instagram.com/akash_code_cafe"
             target="_blank"
             rel="noopener noreferrer"
+            aria-label="Akash Code Cafe on Instagram"
             initial={{ opacity: 0, y: 24 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
