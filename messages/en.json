@@ -4,8 +4,18 @@
     "services": "Services",
     "about": "About",
     "playground": "Playground",
+    "blog": "Blog",
     "contact": "Contact",
     "resume": "Resume"
+  },
+  "blog": {
+    "label": "writing",
+    "title": "Thoughts on AI Engineering",
+    "subtitle": "Deep-dives on RAG systems, computer vision, and shipping AI that actually works in production.",
+    "back": "Back to blog",
+    "cta_title": "Building something with AI?",
+    "cta_subtitle": "I help teams ship production-grade AI systems. Let's talk.",
+    "cta_button": "Get in touch"
   },
   "hero": {
     "available": "Available for new projects",

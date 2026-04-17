@@ -32,6 +32,7 @@ export default function Header() {
     { href: "#work", label: t("work") },
     { href: "#playground", label: t("playground") },
     { href: "#about", label: t("about") },
+    { href: "/blog", label: t("blog"), isPage: true },
     { href: "#contact", label: t("contact") },
   ];
 
@@ -57,15 +58,25 @@ export default function Header() {
 
         {/* Desktop nav */}
         <nav className="hidden md:flex items-center gap-6">
-          {navLinks.map((l) => (
-            <a
-              key={l.href}
-              href={l.href}
-              className="text-sm text-muted-foreground hover:text-foreground transition-colors duration-200"
-            >
-              {l.label}
-            </a>
-          ))}
+          {navLinks.map((l) =>
+            l.isPage ? (
+              <Link
+                key={l.href}
+                href={l.href}
+                className="text-sm text-muted-foreground hover:text-foreground transition-colors duration-200"
+              >
+                {l.label}
+              </Link>
+            ) : (
+              <a
+                key={l.href}
+                href={l.href}
+                className="text-sm text-muted-foreground hover:text-foreground transition-colors duration-200"
+              >
+                {l.label}
+              </a>
+            )
+          )}
         </nav>
 
         {/* Controls */}
@@ -147,16 +158,27 @@ export default function Header() {
             className="md:hidden border-t border-border/60 glass overflow-hidden"
           >
             <nav className="flex flex-col px-6 py-4 gap-3">
-              {navLinks.map((l) => (
-                <a
-                  key={l.href}
-                  href={l.href}
-                  onClick={() => setMenuOpen(false)}
-                  className="text-sm text-muted-foreground hover:text-foreground py-1.5 transition-colors"
-                >
-                  {l.label}
-                </a>
-              ))}
+              {navLinks.map((l) =>
+                l.isPage ? (
+                  <Link
+                    key={l.href}
+                    href={l.href}
+                    onClick={() => setMenuOpen(false)}
+                    className="text-sm text-muted-foreground hover:text-foreground py-1.5 transition-colors"
+                  >
+                    {l.label}
+                  </Link>
+                ) : (
+                  <a
+                    key={l.href}
+                    href={l.href}
+                    onClick={() => setMenuOpen(false)}
+                    className="text-sm text-muted-foreground hover:text-foreground py-1.5 transition-colors"
+                  >
+                    {l.label}
+                  </a>
+                )
+              )}
               <div className="border-t border-border/40 pt-3 mt-1 flex items-center justify-between">
                 <div className="flex items-center gap-1.5">
                   {routing.locales.map((locale) => (

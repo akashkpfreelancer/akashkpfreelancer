@@ -4,8 +4,18 @@
     "services": "Leistungen",
     "about": "Über mich",
     "playground": "Demo",
+    "blog": "Blog",
     "contact": "Kontakt",
     "resume": "Lebenslauf"
+  },
+  "blog": {
+    "label": "artikel",
+    "title": "Gedanken zur KI-Entwicklung",
+    "subtitle": "Tiefgehende Analysen zu RAG-Systemen, Computer Vision und KI in der Produktion.",
+    "back": "Zurück zum Blog",
+    "cta_title": "Bauen Sie etwas mit KI?",
+    "cta_subtitle": "Ich helfe Teams, KI-Systeme in Produktionsqualität zu liefern. Lassen Sie uns reden.",
+    "cta_button": "Kontakt aufnehmen"
   },
   "hero": {
     "available": "Verfügbar für neue Projekte",

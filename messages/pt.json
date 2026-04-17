@@ -4,8 +4,18 @@
     "services": "Serviços",
     "about": "Sobre",
     "playground": "Demo",
+    "blog": "Blog",
     "contact": "Contato",
     "resume": "Currículo"
+  },
+  "blog": {
+    "label": "artigos",
+    "title": "Reflexões sobre IA",
+    "subtitle": "Análises aprofundadas sobre sistemas RAG, visão computacional e como levar a IA à produção.",
+    "back": "Voltar ao blog",
+    "cta_title": "Construindo algo com IA?",
+    "cta_subtitle": "Ajudo equipes a entregar sistemas de IA em nível de produção. Vamos conversar.",
+    "cta_button": "Entre em contato"
   },
   "hero": {
     "available": "Disponível para novos projetos",
