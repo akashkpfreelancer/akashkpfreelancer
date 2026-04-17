@@ -78,10 +78,10 @@ export default function Contact() {
               <div>
                 <p className="text-sm font-medium text-foreground mb-0.5">{t("email_direct")}</p>
                 <a
-                  href="mailto:akash@akashcodecafe.tech"
+                  href="mailto:akashkp.freelancer@gmail.com"
                   className="text-sm text-accent hover:underline font-mono"
                 >
-                  akash@akashcodecafe.tech
+                  akashkp.freelancer@gmail.com
                 </a>
               </div>
             </div>

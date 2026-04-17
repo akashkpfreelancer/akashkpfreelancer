@@ -14,7 +14,7 @@ export async function POST(req: NextRequest) {
     const data = schema.parse(body);
 
     const resendKey = process.env.RESEND_API_KEY;
-    const toEmail = process.env.CONTACT_EMAIL ?? "akashkp.frelancer@gmail.com";
+    const toEmail = process.env.CONTACT_EMAIL ?? "akashkp.freelancer@gmail.com";
 
     if (!resendKey) {
       return NextResponse.json({ error: "Mail service not configured" }, { status: 500 });
