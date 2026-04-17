@@ -8,6 +8,24 @@
     "contact": "Contact",
     "resume": "Resume"
   },
+  "process": {
+    "label": "how it works",
+    "title": "How I Work With You",
+    "subtitle": "A clear, async-friendly process — from first call to handoff, you always know what's happening and what's next.",
+    "step_discovery_title": "Discovery Call",
+    "step_discovery_desc": "30-min call to understand your problem, constraints, and success criteria.",
+    "step_architecture_title": "Architecture Design",
+    "step_architecture_desc": "I deliver a written architecture doc with diagrams before any code is written.",
+    "step_build_title": "Build + Updates",
+    "step_build_desc": "Weekly async updates, shared staging environment, and early feedback loops.",
+    "step_review_title": "Review & Handoff",
+    "step_review_desc": "Code walkthrough, documentation, deployment guide, and knowledge transfer.",
+    "step_support_title": "30-Day Support",
+    "step_support_desc": "A month of included support after handoff — bugs fixed, questions answered.",
+    "timeline_kick": "Kickoff within 48 hours of contract",
+    "timeline_updates": "Weekly written progress updates",
+    "timeline_nda": "NDA signed before any sharing"
+  },
   "blog": {
     "label": "writing",
     "title": "Thoughts on AI Engineering",

@@ -8,6 +8,24 @@
     "contact": "Contato",
     "resume": "Currículo"
   },
+  "process": {
+    "label": "como funciona",
+    "title": "Como Trabalho Com Você",
+    "subtitle": "Um processo claro e assíncrono — da primeira call à entrega, você sempre sabe o que está acontecendo.",
+    "step_discovery_title": "Call Inicial",
+    "step_discovery_desc": "30 min para entender seu problema, restrições e critérios de sucesso.",
+    "step_architecture_title": "Design de Arquitetura",
+    "step_architecture_desc": "Entrego um documento de arquitetura com diagramas antes de escrever qualquer código.",
+    "step_build_title": "Build + Atualizações",
+    "step_build_desc": "Atualizações semanais, ambiente de staging compartilhado e loops de feedback antecipados.",
+    "step_review_title": "Revisão & Entrega",
+    "step_review_desc": "Revisão de código, documentação, guia de deploy e transferência de conhecimento.",
+    "step_support_title": "Suporte 30 Dias",
+    "step_support_desc": "Um mês de suporte incluído após a entrega — bugs corrigidos, dúvidas respondidas.",
+    "timeline_kick": "Início em 48h após o contrato",
+    "timeline_updates": "Atualizações semanais escritas",
+    "timeline_nda": "NDA assinado antes de qualquer compartilhamento"
+  },
   "blog": {
     "label": "artigos",
     "title": "Reflexões sobre IA",

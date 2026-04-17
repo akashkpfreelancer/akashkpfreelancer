@@ -8,6 +8,24 @@
     "contact": "Kontakt",
     "resume": "Lebenslauf"
   },
+  "process": {
+    "label": "so arbeite ich",
+    "title": "So Arbeite Ich Mit Ihnen",
+    "subtitle": "Ein klarer, async-freundlicher Prozess — vom ersten Gespräch bis zur Übergabe wissen Sie immer, was gerade passiert.",
+    "step_discovery_title": "Kennenlernen",
+    "step_discovery_desc": "30-minütiges Gespräch zu Ihrem Problem, Rahmenbedingungen und Erfolgskriterien.",
+    "step_architecture_title": "Architektur",
+    "step_architecture_desc": "Ich liefere ein Architekturdokument mit Diagrammen bevor Code geschrieben wird.",
+    "step_build_title": "Build + Updates",
+    "step_build_desc": "Wöchentliche Updates, geteilte Staging-Umgebung und frühe Feedbackschleifen.",
+    "step_review_title": "Review & Übergabe",
+    "step_review_desc": "Code-Review, Dokumentation, Deployment-Anleitung und Wissenstransfer.",
+    "step_support_title": "30 Tage Support",
+    "step_support_desc": "Ein Monat inkludierter Support nach der Übergabe — Bugs behoben, Fragen beantwortet.",
+    "timeline_kick": "Kickoff innerhalb von 48h nach Vertragsschluss",
+    "timeline_updates": "Wöchentliche schriftliche Updates",
+    "timeline_nda": "NDA vor jeder Freigabe unterzeichnet"
+  },
   "blog": {
     "label": "artikel",
     "title": "Gedanken zur KI-Entwicklung",

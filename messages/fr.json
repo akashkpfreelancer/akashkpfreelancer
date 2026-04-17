@@ -8,6 +8,24 @@
     "contact": "Contact",
     "resume": "CV"
   },
+  "process": {
+    "label": "comment ça marche",
+    "title": "Comment Je Travaille Avec Vous",
+    "subtitle": "Un processus clair et async — du premier appel à la livraison, vous savez toujours où en est le projet.",
+    "step_discovery_title": "Appel Découverte",
+    "step_discovery_desc": "30 min pour comprendre votre problème, vos contraintes et vos critères de succès.",
+    "step_architecture_title": "Architecture",
+    "step_architecture_desc": "Je livre un document d'architecture avec schémas avant d'écrire la moindre ligne de code.",
+    "step_build_title": "Build + Mises à jour",
+    "step_build_desc": "Mises à jour hebdomadaires, environnement de staging partagé et retours anticipés.",
+    "step_review_title": "Révision & Livraison",
+    "step_review_desc": "Revue de code, documentation, guide de déploiement et transfert de connaissances.",
+    "step_support_title": "Support 30 Jours",
+    "step_support_desc": "Un mois de support inclus après livraison — bugs corrigés, questions répondues.",
+    "timeline_kick": "Démarrage sous 48h après signature",
+    "timeline_updates": "Mises à jour hebdomadaires écrites",
+    "timeline_nda": "NDA signé avant tout partage"
+  },
   "blog": {
     "label": "articles",
     "title": "Réflexions sur l'IA",
