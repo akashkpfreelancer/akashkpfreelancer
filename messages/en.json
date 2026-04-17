@@ -162,6 +162,7 @@
   "footer": {
     "built": "Built with Next.js & deployed on Vercel",
     "rights": "All rights reserved.",
-    "download_resume": "Download Resume"
+    "download_resume": "Download Resume",
+    "tagline": "Building production-grade AI systems for startups and teams worldwide."
   }
 }

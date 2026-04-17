@@ -79,22 +79,42 @@
     "rag": {
       "title": "Sistemas RAG",
       "desc": "Pipelines de geração aumentada por recuperação — busca semântica, bancos de dados vetoriais, compressão de contexto e recuperação multimodal.",
-      "tags": ["LangChain", "LlamaIndex", "Pinecone", "OpenAI"]
+      "tags": [
+        "LangChain",
+        "LlamaIndex",
+        "Pinecone",
+        "OpenAI"
+      ]
     },
     "vision": {
       "title": "Visão Computacional",
       "desc": "Pipelines CV completos — detecção de objetos, classificação de imagens, OCR e processamento de vídeo em tempo real.",
-      "tags": ["PyTorch", "YOLO", "OpenCV", "ONNX"]
+      "tags": [
+        "PyTorch",
+        "YOLO",
+        "OpenCV",
+        "ONNX"
+      ]
     },
     "agents": {
       "title": "Agentes de IA",
       "desc": "Sistemas de agentes autônomos — de workflows de agente único à orquestração multi-agente.",
-      "tags": ["LangGraph", "AutoGen", "Tool Use", "MCP"]
+      "tags": [
+        "LangGraph",
+        "AutoGen",
+        "Tool Use",
+        "MCP"
+      ]
     },
     "fullstack": {
       "title": "Desenvolvimento Full-Stack",
       "desc": "Sistemas CRUD complexos, dashboards em tempo real e plataformas API — 6+ anos construindo backends escaláveis e frontends polidos.",
-      "tags": ["Next.js", "FastAPI", "PostgreSQL", "Redis"]
+      "tags": [
+        "Next.js",
+        "FastAPI",
+        "PostgreSQL",
+        "Redis"
+      ]
     }
   },
   "work": {
@@ -162,6 +182,7 @@
   "footer": {
     "built": "Construído com Next.js e implantado no Vercel",
     "rights": "Todos os direitos reservados.",
-    "download_resume": "Baixar Currículo"
+    "download_resume": "Baixar Currículo",
+    "tagline": "Construindo sistemas de IA de nível produção para startups e equipes em todo o mundo."
   }
 }

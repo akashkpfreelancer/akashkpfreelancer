@@ -79,22 +79,42 @@
     "rag": {
       "title": "RAG-Systeme",
       "desc": "Benutzerdefinierte RAG-Pipelines — semantische Suche, Vektordatenbanken, Kontextkomprimierung und multimodale Abfrage über Ihre Daten.",
-      "tags": ["LangChain", "LlamaIndex", "Pinecone", "OpenAI"]
+      "tags": [
+        "LangChain",
+        "LlamaIndex",
+        "Pinecone",
+        "OpenAI"
+      ]
     },
     "vision": {
       "title": "Computer Vision",
       "desc": "End-to-End-CV-Pipelines — Objekterkennung, Bildklassifikation, OCR und Echtzeit-Videoverarbeitung.",
-      "tags": ["PyTorch", "YOLO", "OpenCV", "ONNX"]
+      "tags": [
+        "PyTorch",
+        "YOLO",
+        "OpenCV",
+        "ONNX"
+      ]
     },
     "agents": {
       "title": "KI-Agenten",
       "desc": "Autonome Agentensysteme — von einfachen Workflows bis zur Multi-Agenten-Orchestrierung.",
-      "tags": ["LangGraph", "AutoGen", "Tool Use", "MCP"]
+      "tags": [
+        "LangGraph",
+        "AutoGen",
+        "Tool Use",
+        "MCP"
+      ]
     },
     "fullstack": {
       "title": "Full-Stack-Entwicklung",
       "desc": "Komplexe CRUD-Systeme, Echtzeit-Dashboards und API-Plattformen — 6+ Jahre skalierbare Backends und polierte Frontends.",
-      "tags": ["Next.js", "FastAPI", "PostgreSQL", "Redis"]
+      "tags": [
+        "Next.js",
+        "FastAPI",
+        "PostgreSQL",
+        "Redis"
+      ]
     }
   },
   "work": {
@@ -162,6 +182,7 @@
   "footer": {
     "built": "Erstellt mit Next.js und auf Vercel bereitgestellt",
     "rights": "Alle Rechte vorbehalten.",
-    "download_resume": "Lebenslauf herunterladen"
+    "download_resume": "Lebenslauf herunterladen",
+    "tagline": "Aufbau produktionsreifer KI-Systeme für Startups und Teams weltweit."
   }
 }
