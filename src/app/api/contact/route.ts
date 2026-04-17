@@ -14,7 +14,6 @@ export async function POST(req: NextRequest) {
     const data = schema.parse(body);
 
     const resendKey = process.env.RESEND_API_KEY;
-    const toEmail = process.env.CONTACT_EMAIL ?? "akashkp.freelancer@gmail.com";
 
     if (!resendKey) {
       return NextResponse.json({ error: "Mail service not configured" }, { status: 500 });
@@ -28,7 +27,7 @@ export async function POST(req: NextRequest) {
       },
       body: JSON.stringify({
         from: "Portfolio Contact <onboarding@resend.dev>",
-        to: [toEmail],
+        to: ["akashkp.freelancer@gmail.com"],
         reply_to: data.email,
         subject: `New inquiry from ${data.name} — akashcodecafe.tech`,
         html: `
