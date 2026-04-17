@@ -8,6 +8,25 @@
     "contact": "Contato",
     "resume": "Currículo"
   },
+  "faq": {
+    "label": "faq",
+    "title": "Perguntas Frequentes",
+    "subtitle": "Tudo que você quer saber antes de entrar em contato — respondido de antemão.",
+    "q_timeline": "Qual é o prazo típico de um projeto?",
+    "a_timeline": "A maioria dos projetos AI/ML dura 4–10 semanas dependendo do escopo. Um pipeline RAG ou modelo CV focado leva tipicamente 4–6 semanas. Um produto full-stack com treinamento personalizado pode levar 8–12 semanas.",
+    "q_pricing": "Como você estrutura os preços?",
+    "a_pricing": "Trabalho por projeto ou com retainer mensal. Projetos AI/ML começam em torno de $3.000 e escalam com a complexidade. Retainers começam em $2.000/mês. Não trabalho por hora. Você receberá uma proposta de preço fixo após definirmos o escopo juntos.",
+    "q_existing_codebase": "Você pode trabalhar com nossa base de código existente?",
+    "a_existing_codebase": "Sim — a maioria dos meus projetos envolve integrar capacidades AI/ML em sistemas existentes. Pedirei um walkthrough do código na call inicial e incluirei o tempo de adaptação na proposta.",
+    "q_timezone": "Qual é sua disponibilidade e fuso horário?",
+    "a_timezone": "Estou em Ahmedabad, Índia (IST, UTC+5:30) e trabalho de forma assíncrona. Mantenho uma janela de sobreposição de 4h com o Leste dos EUA e maior com a UE.",
+    "q_nda": "Você assina NDAs?",
+    "a_nda": "Sempre — antes de qualquer código, arquitetura ou informação proprietária ser compartilhada. Envio um NDA mútuo padrão em 24h após nossa primeira call, ou posso assinar o seu.",
+    "q_stack": "Você trabalha com uma stack específica ou se adapta?",
+    "a_stack": "Minha stack principal é Python (PyTorch, LangChain, FastAPI) para AI/ML e Next.js/TypeScript para frontend. Me adapto para trabalhos de integração — já entreguei em AWS, GCP e Azure.",
+    "more": "Tem outra pergunta?",
+    "more_link": "Me envie uma mensagem"
+  },
   "testimonials": {
     "label": "feedback de clientes",
     "title": "O Que os Clientes Dizem",

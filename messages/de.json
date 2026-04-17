@@ -8,6 +8,25 @@
     "contact": "Kontakt",
     "resume": "Lebenslauf"
   },
+  "faq": {
+    "label": "faq",
+    "title": "Häufige Fragen",
+    "subtitle": "Alles, was Sie vor der Kontaktaufnahme wissen möchten — direkt beantwortet.",
+    "q_timeline": "Wie lang ist die typische Projektlaufzeit?",
+    "a_timeline": "Die meisten AI/ML-Projekte dauern 4–10 Wochen je nach Umfang. Eine RAG-Pipeline oder ein CV-Modell typischerweise 4–6 Wochen. Ein Full-Stack-AI-Produkt mit Custom-Training 8–12 Wochen. Sie erhalten nach dem Discovery-Call eine detaillierte Zeitschätzung mit Meilensteinen.",
+    "q_pricing": "Wie gestalten Sie die Preisstruktur?",
+    "a_pricing": "Ich arbeite projektbasiert oder mit monatlichem Retainer. Projekte beginnen ab ca. 3.000 $ und skalieren mit der Komplexität. Retainer starten bei 2.000 $/Monat. Ich arbeite nicht stundenweise. Sie erhalten nach der gemeinsamen Scope-Definition ein Festpreisangebot.",
+    "q_existing_codebase": "Können Sie mit unserer bestehenden Codebasis arbeiten?",
+    "a_existing_codebase": "Ja — die meisten meiner Projekte beinhalten die Integration von AI/ML in bestehende Systeme. Ich bitte um einen Code-Walkthrough im Discovery-Call und kalkuliere die Einarbeitungszeit in das Angebot ein.",
+    "q_timezone": "Wie ist Ihre Verfügbarkeit und Zeitzone?",
+    "a_timezone": "Ich bin in Ahmedabad, Indien (IST, UTC+5:30) und arbeite async-first. Ich halte ein 4-stündiges Überschneidungsfenster mit US-Eastern und ein größeres mit der EU aufrecht.",
+    "q_nda": "Unterzeichnen Sie NDAs?",
+    "a_nda": "Immer — bevor Code, Architekturdetails oder proprietäre Informationen geteilt werden. Ich sende innerhalb von 24h nach unserem ersten Gespräch ein gegenseitiges NDA oder unterzeichne Ihres.",
+    "q_stack": "Arbeiten Sie mit einem bestimmten Stack oder passen Sie sich an?",
+    "a_stack": "Mein primärer Stack ist Python (PyTorch, LangChain, FastAPI) für AI/ML und Next.js/TypeScript für Frontend. Ich passe mich für Integrationsarbeiten an — geliefert auf AWS, GCP und Azure.",
+    "more": "Haben Sie eine andere Frage?",
+    "more_link": "Schreiben Sie mir"
+  },
   "testimonials": {
     "label": "kundenfeedback",
     "title": "Was Kunden Sagen",

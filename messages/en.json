@@ -8,6 +8,25 @@
     "contact": "Contact",
     "resume": "Resume"
   },
+  "faq": {
+    "label": "faq",
+    "title": "Common Questions",
+    "subtitle": "Everything you'd want to know before reaching out — answered upfront.",
+    "q_timeline": "What's your typical project timeline?",
+    "a_timeline": "Most AI/ML projects run 4–10 weeks depending on scope. A focused RAG pipeline or CV model is typically 4–6 weeks. A full-stack AI product with custom training is 8–12 weeks. I'll give you a detailed timeline estimate after the discovery call, with milestones so you always know where things stand.",
+    "q_pricing": "How do you structure pricing?",
+    "a_pricing": "I work project-based or on a monthly retainer. Project-based engagements typically start around $3,000 for scoped AI/ML work and scale with complexity. Retainers start at $2,000/month for ongoing engineering support. I don't do hourly — it creates the wrong incentives. You'll get a fixed-price proposal after we scope the work together.",
+    "q_existing_codebase": "Can you work within our existing codebase?",
+    "a_existing_codebase": "Yes — most of my projects involve integrating AI/ML capabilities into existing systems rather than greenfield builds. I'll ask for a codebase walkthrough in the discovery call and factor ramp-up time into the proposal. I've worked with Django, Rails, Spring Boot, and legacy FastAPI codebases alongside standard Next.js and React setups.",
+    "q_timezone": "What's your availability and timezone?",
+    "a_timezone": "I'm based in Ahmedabad, India (IST, UTC+5:30) and work async-first. Most of my clients are in the US, EU, and Middle East — I maintain a 4-hour overlap window with US Eastern and a larger overlap with EU. Weekly video check-ins are available, and I'm reachable async within a few hours during working days.",
+    "q_nda": "Do you sign NDAs?",
+    "a_nda": "Always — before any code, architecture details, or proprietary information is shared. I use a standard mutual NDA which I'll send within 24 hours of our first call. If you have your own NDA template, I'm happy to review and sign that instead.",
+    "q_stack": "Do you work with a specific tech stack, or can you adapt?",
+    "a_stack": "My primary stack is Python (PyTorch, LangChain, LlamaIndex, FastAPI) for AI/ML and Next.js/TypeScript for frontend. I can adapt to your existing stack for integration work — I've delivered on AWS, GCP, and Azure, with Postgres, MySQL, and MongoDB backends. If your stack is unusual, mention it and I'll give you an honest assessment.",
+    "more": "Have a different question?",
+    "more_link": "Send me a message"
+  },
   "testimonials": {
     "label": "client feedback",
     "title": "What Clients Say",

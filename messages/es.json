@@ -8,6 +8,25 @@
     "contact": "Contacto",
     "resume": "CV"
   },
+  "faq": {
+    "label": "faq",
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Todo lo que querrías saber antes de contactarme — respondido de antemano.",
+    "q_timeline": "¿Cuánto suele durar un proyecto?",
+    "a_timeline": "La mayoría de proyectos AI/ML duran 4–10 semanas según el alcance. Un RAG o modelo CV enfocado suele tomar 4–6 semanas. Un producto full-stack con entrenamiento personalizado puede ser 8–12 semanas. Te daré una estimación detallada con hitos tras la llamada inicial.",
+    "q_pricing": "¿Cómo estructuras los precios?",
+    "a_pricing": "Trabajo por proyecto o con retainer mensual. Los proyectos AI/ML comienzan alrededor de $3,000 y escalan con la complejidad. Los retainers parten de $2,000/mes. No trabajo por horas — crea los incentivos incorrectos. Recibirás una propuesta de precio fijo tras definir el alcance juntos.",
+    "q_existing_codebase": "¿Puedes trabajar con nuestra base de código existente?",
+    "a_existing_codebase": "Sí — la mayoría de mis proyectos integran capacidades AI/ML en sistemas existentes. Pediré un recorrido del código en la llamada inicial e incluiré el tiempo de adaptación en la propuesta.",
+    "q_timezone": "¿Cuál es tu disponibilidad y zona horaria?",
+    "a_timezone": "Estoy en Ahmedabad, India (IST, UTC+5:30) y trabajo de forma asíncrona. Mantengo una ventana de solapamiento de 4h con el Este de EE.UU. y mayor con la UE. Disponible para videollamadas semanales.",
+    "q_nda": "¿Firmas NDAs?",
+    "a_nda": "Siempre — antes de compartir cualquier código, arquitectura o información propietaria. Envío un NDA mutuo estándar dentro de las 24h de nuestra primera llamada, o puedo firmar el tuyo.",
+    "q_stack": "¿Trabajas con un stack específico o te adaptas?",
+    "a_stack": "Mi stack principal es Python (PyTorch, LangChain, FastAPI) para AI/ML y Next.js/TypeScript para frontend. Me adapto para trabajo de integración — he entregado en AWS, GCP y Azure con distintos backends.",
+    "more": "¿Tienes otra pregunta?",
+    "more_link": "Envíame un mensaje"
+  },
   "testimonials": {
     "label": "opiniones de clientes",
     "title": "Lo Que Dicen los Clientes",

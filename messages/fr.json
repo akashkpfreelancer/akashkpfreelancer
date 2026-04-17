@@ -8,6 +8,25 @@
     "contact": "Contact",
     "resume": "CV"
   },
+  "faq": {
+    "label": "faq",
+    "title": "Questions Fréquentes",
+    "subtitle": "Tout ce que vous voudriez savoir avant de me contacter — répondu d'emblée.",
+    "q_timeline": "Quelle est la durée typique d'un projet ?",
+    "a_timeline": "La plupart des projets AI/ML durent 4–10 semaines selon la portée. Un pipeline RAG ou modèle CV ciblé prend généralement 4–6 semaines. Un produit full-stack avec entraînement personnalisé peut prendre 8–12 semaines. Je vous fournirai une estimation détaillée avec des jalons après l'appel de découverte.",
+    "q_pricing": "Comment structurez-vous les prix ?",
+    "a_pricing": "Je travaille au forfait ou en retainer mensuel. Les projets AI/ML commencent à environ 3 000 $ et évoluent avec la complexité. Les retainers démarrent à 2 000 $/mois. Je ne travaille pas à l'heure — cela crée de mauvaises incitations. Vous recevrez une proposition à prix fixe après avoir défini la portée ensemble.",
+    "q_existing_codebase": "Pouvez-vous travailler avec notre base de code existante ?",
+    "a_existing_codebase": "Oui — la plupart de mes projets consistent à intégrer des capacités AI/ML dans des systèmes existants. Je demanderai une présentation du code lors de l'appel de découverte et intégrerai le temps de montée en charge dans la proposition.",
+    "q_timezone": "Quelle est votre disponibilité et votre fuseau horaire ?",
+    "a_timezone": "Je suis basé à Ahmedabad, Inde (IST, UTC+5:30) et je travaille en mode asynchrone. Je maintiens une fenêtre de chevauchement de 4h avec l'Est des États-Unis et plus avec l'UE.",
+    "q_nda": "Signez-vous des NDA ?",
+    "a_nda": "Toujours — avant tout partage de code, d'architecture ou d'informations propriétaires. J'envoie un NDA mutuel standard dans les 24h suivant notre premier appel, ou je peux signer le vôtre.",
+    "q_stack": "Travaillez-vous avec une stack spécifique ou vous adaptez-vous ?",
+    "a_stack": "Ma stack principale est Python (PyTorch, LangChain, FastAPI) pour l'AI/ML et Next.js/TypeScript pour le frontend. Je m'adapte pour les travaux d'intégration — j'ai livré sur AWS, GCP et Azure.",
+    "more": "Vous avez une autre question ?",
+    "more_link": "Envoyez-moi un message"
+  },
   "testimonials": {
     "label": "avis clients",
     "title": "Ce Que Disent les Clients",

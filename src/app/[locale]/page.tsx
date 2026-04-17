@@ -6,6 +6,7 @@ import Testimonials from "@/components/sections/Testimonials";
 import Playground from "@/components/sections/Playground";
 import About from "@/components/sections/About";
 import SocialProof from "@/components/sections/SocialProof";
+import FAQ from "@/components/sections/FAQ";
 import Contact from "@/components/sections/Contact";
 
 export default function HomePage() {
@@ -19,6 +20,7 @@ export default function HomePage() {
       <Playground />
       <About />
       <SocialProof />
+      <FAQ />
       <Contact />
     </>
   );
