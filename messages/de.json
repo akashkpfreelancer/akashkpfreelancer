@@ -1,0 +1,114 @@
+{
+  "nav": {
+    "work": "Projekte",
+    "services": "Leistungen",
+    "about": "Über mich",
+    "playground": "Demo",
+    "contact": "Kontakt",
+    "resume": "Lebenslauf"
+  },
+  "hero": {
+    "available": "Verfügbar für neue Projekte",
+    "greeting": "Hallo, ich bin",
+    "name": "Akash Patel",
+    "role": "AI/ML-Ingenieur &",
+    "role2": "Full-Stack-Entwickler",
+    "tagline": "Ich entwickle produktionsreife RAG-Systeme, Computer-Vision-Pipelines und KI-Agenten — und übersetze komplexe ML-Forschung in funktionierende Software.",
+    "cta_primary": "Gespräch buchen",
+    "cta_secondary": "Projekte ansehen",
+    "experience": "Jahre Erfahrung",
+    "projects": "Abgeschlossene Projekte",
+    "specialization": "AI/ML-Fokus"
+  },
+  "services": {
+    "title": "Was ich baue",
+    "subtitle": "Spezialisiert auf die Schnittstelle zwischen KI-Forschung und Produktionstechnik.",
+    "rag": {
+      "title": "RAG-Systeme",
+      "desc": "Benutzerdefinierte RAG-Pipelines — semantische Suche, Vektordatenbanken, Kontextkomprimierung und multimodale Abfrage über Ihre Daten.",
+      "tags": ["LangChain", "LlamaIndex", "Pinecone", "OpenAI"]
+    },
+    "vision": {
+      "title": "Computer Vision",
+      "desc": "End-to-End-CV-Pipelines — Objekterkennung, Bildklassifikation, OCR und Echtzeit-Videoverarbeitung.",
+      "tags": ["PyTorch", "YOLO", "OpenCV", "ONNX"]
+    },
+    "agents": {
+      "title": "KI-Agenten",
+      "desc": "Autonome Agentensysteme — von einfachen Workflows bis zur Multi-Agenten-Orchestrierung.",
+      "tags": ["LangGraph", "AutoGen", "Tool Use", "MCP"]
+    },
+    "fullstack": {
+      "title": "Full-Stack-Entwicklung",
+      "desc": "Komplexe CRUD-Systeme, Echtzeit-Dashboards und API-Plattformen — 6+ Jahre skalierbare Backends und polierte Frontends.",
+      "tags": ["Next.js", "FastAPI", "PostgreSQL", "Redis"]
+    }
+  },
+  "work": {
+    "title": "Ausgewählte Projekte",
+    "subtitle": "Echte Projekte — einige anonymisiert aufgrund von NDAs. Weitere Fallstudien folgen.",
+    "live": "Live-Demo",
+    "code": "Code",
+    "coming": "Demnächst"
+  },
+  "playground": {
+    "title": "KI-Spielwiese",
+    "subtitle": "Testen Sie eine Live-RAG-Demo — bringen Sie Ihren eigenen OpenAI-Schlüssel mit. Ihr Schlüssel bleibt in Ihrem Browser.",
+    "key_label": "OpenAI API-Schlüssel",
+    "key_placeholder": "sk-...",
+    "key_note": "Nur im Speicher. Nie an unsere Server gesendet.",
+    "query_label": "Fragen Sie etwas",
+    "query_placeholder": "Was ist Retrieval-Augmented Generation?",
+    "send": "Senden",
+    "thinking": "Denke nach...",
+    "enter_key": "Geben Sie Ihren OpenAI API-Schlüssel ein, um zu beginnen.",
+    "error_no_key": "Bitte geben Sie Ihren OpenAI API-Schlüssel ein.",
+    "disclaimer": "Diese Demo verwendet die OpenAI API direkt aus Ihrem Browser."
+  },
+  "about": {
+    "title": "Über Mich",
+    "subtitle": "6+ Jahre KI-Forschung in Produktionssoftware umwandeln.",
+    "bio": "Ich bin Akash — KI/ML-Ingenieur und Full-Stack-Entwickler aus Ahmedabad, Indien. Ich spezialisiere mich darauf, modernste ML-Forschung in zuverlässige, skalierbare Produktionssysteme zu übersetzen. Ich arbeite mit Startups, Agenturen und mittelgroßen Teams weltweit — hauptsächlich remote.",
+    "stack_title": "Tech-Stack",
+    "social_title": "Online finden",
+    "youtube": "YouTube",
+    "instagram": "Instagram",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "social": {
+    "title": "Folgen Sie Meiner Reise",
+    "subtitle": "Ich teile KI/ML-Tutorials, Entwickler-Walkthroughs und Projektanalysen.",
+    "youtube_label": "YouTube",
+    "youtube_handle": "Akash Code Cafe",
+    "youtube_desc": "KI/ML-Tutorials, Projektaufbauten",
+    "instagram_label": "Instagram",
+    "instagram_handle": "@akash_code_cafe",
+    "instagram_desc": "Dev-Updates, ML-Experimente",
+    "subscribers": "Abonnenten",
+    "followers": "Follower",
+    "watch": "Ansehen",
+    "follow": "Folgen"
+  },
+  "contact": {
+    "title": "Zusammenarbeiten",
+    "subtitle": "Verfügbar für Freelance-Projekte, Beratung und langfristige Zusammenarbeit.",
+    "form_name": "Ihr Name",
+    "form_email": "E-Mail-Adresse",
+    "form_project": "Erzählen Sie mir von Ihrem Projekt",
+    "form_budget": "Ungefähres Budget (optional)",
+    "form_send": "Nachricht senden",
+    "form_sending": "Senden...",
+    "form_success": "Nachricht gesendet! Ich melde mich innerhalb von 24 Stunden.",
+    "form_error": "Etwas ist schiefgelaufen. Bitte schreiben Sie mir direkt.",
+    "or": "oder",
+    "email_direct": "Direkt schreiben",
+    "response_time": "Typische Antwortzeit: innerhalb von 24 Stunden",
+    "timezone": "IST (UTC+5:30) — weltweit asynchron arbeitend"
+  },
+  "footer": {
+    "built": "Erstellt mit Next.js und auf Vercel bereitgestellt",
+    "rights": "Alle Rechte vorbehalten.",
+    "download_resume": "Lebenslauf herunterladen"
+  }
+}

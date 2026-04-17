@@ -1,0 +1,114 @@
+{
+  "nav": {
+    "work": "Work",
+    "services": "Services",
+    "about": "About",
+    "playground": "Playground",
+    "contact": "Contact",
+    "resume": "Resume"
+  },
+  "hero": {
+    "available": "Available for new projects",
+    "greeting": "Hi, I'm",
+    "name": "Akash Patel",
+    "role": "AI/ML Engineer &",
+    "role2": "Full-Stack Developer",
+    "tagline": "I build production-grade RAG systems, computer vision pipelines, and AI agents — turning complex ML research into working software that ships.",
+    "cta_primary": "Book a call",
+    "cta_secondary": "See my work",
+    "experience": "Years Experience",
+    "projects": "Projects Delivered",
+    "specialization": "AI/ML Focus"
+  },
+  "services": {
+    "title": "What I Build",
+    "subtitle": "Specialized in the intersection of AI research and production engineering.",
+    "rag": {
+      "title": "RAG Systems",
+      "desc": "Custom retrieval-augmented generation pipelines — semantic search, vector databases, context compression, and multi-modal retrieval over your proprietary data.",
+      "tags": ["LangChain", "LlamaIndex", "Pinecone", "OpenAI"]
+    },
+    "vision": {
+      "title": "Computer Vision",
+      "desc": "End-to-end CV pipelines from data collection to deployed inference — object detection, image classification, OCR, and real-time video processing.",
+      "tags": ["PyTorch", "YOLO", "OpenCV", "ONNX"]
+    },
+    "agents": {
+      "title": "AI Agents",
+      "desc": "Autonomous agent systems that reason, plan, and use tools — from single-agent workflows to multi-agent orchestration with reliable human-in-the-loop checkpoints.",
+      "tags": ["LangGraph", "AutoGen", "Tool Use", "MCP"]
+    },
+    "fullstack": {
+      "title": "Full-Stack Development",
+      "desc": "Complex CRUD systems, real-time dashboards, and API platforms — 6+ years building scalable backends and polished frontends that handle serious production load.",
+      "tags": ["Next.js", "FastAPI", "PostgreSQL", "Redis"]
+    }
+  },
+  "work": {
+    "title": "Selected Work",
+    "subtitle": "Real projects — some anonymized due to NDA. More case studies being published.",
+    "live": "Live Demo",
+    "code": "Code",
+    "coming": "Coming soon"
+  },
+  "playground": {
+    "title": "AI Playground",
+    "subtitle": "Try a live RAG demo — bring your own OpenAI key. Your key stays in your browser and is never sent to any server.",
+    "key_label": "OpenAI API Key",
+    "key_placeholder": "sk-...",
+    "key_note": "Stored only in memory. Never sent to our servers.",
+    "query_label": "Ask anything",
+    "query_placeholder": "What is retrieval-augmented generation?",
+    "send": "Send",
+    "thinking": "Thinking...",
+    "enter_key": "Enter your OpenAI API key above to start chatting.",
+    "error_no_key": "Please enter your OpenAI API key to continue.",
+    "disclaimer": "This demo uses the OpenAI API directly from your browser. Your API key is never logged or transmitted anywhere except OpenAI's servers."
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "6+ years turning AI research into production software.",
+    "bio": "I'm Akash — an AI/ML engineer and full-stack developer based in Ahmedabad, India. I specialize in taking bleeding-edge ML research and shipping it as reliable, scalable production systems. From RAG pipelines serving thousands of queries a day to real-time computer vision on embedded hardware, I've built across the full spectrum of AI applications. I work with startups, agencies, and mid-size teams worldwide — primarily remote, always async-friendly.",
+    "stack_title": "Tech Stack",
+    "social_title": "Find me online",
+    "youtube": "YouTube",
+    "instagram": "Instagram",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "social": {
+    "title": "Follow My Journey",
+    "subtitle": "I share AI/ML tutorials, dev walkthroughs, and project breakdowns.",
+    "youtube_label": "YouTube",
+    "youtube_handle": "Akash Code Cafe",
+    "youtube_desc": "AI/ML tutorials, project builds, code walkthroughs",
+    "instagram_label": "Instagram",
+    "instagram_handle": "@akash_code_cafe",
+    "instagram_desc": "Dev updates, ML experiments, behind the scenes",
+    "subscribers": "subscribers",
+    "followers": "followers",
+    "watch": "Watch",
+    "follow": "Follow"
+  },
+  "contact": {
+    "title": "Let's Work Together",
+    "subtitle": "Available for freelance projects, consulting, and long-term collaborations. Based in India, working globally.",
+    "form_name": "Your Name",
+    "form_email": "Email Address",
+    "form_project": "Tell me about your project",
+    "form_budget": "Rough budget / engagement type (optional)",
+    "form_send": "Send Message",
+    "form_sending": "Sending...",
+    "form_success": "Message sent! I'll get back to you within 24 hours.",
+    "form_error": "Something went wrong. Please email me directly.",
+    "or": "or",
+    "email_direct": "Email directly",
+    "response_time": "Typical response time: within 24 hours",
+    "timezone": "IST (UTC+5:30) — async-friendly worldwide"
+  },
+  "footer": {
+    "built": "Built with Next.js & deployed on Vercel",
+    "rights": "All rights reserved.",
+    "download_resume": "Download Resume"
+  }
+}

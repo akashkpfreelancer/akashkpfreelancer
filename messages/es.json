@@ -1,0 +1,114 @@
+{
+  "nav": {
+    "work": "Proyectos",
+    "services": "Servicios",
+    "about": "Sobre mí",
+    "playground": "Demo",
+    "contact": "Contacto",
+    "resume": "CV"
+  },
+  "hero": {
+    "available": "Disponible para nuevos proyectos",
+    "greeting": "Hola, soy",
+    "name": "Akash Patel",
+    "role": "Ingeniero AI/ML &",
+    "role2": "Desarrollador Full-Stack",
+    "tagline": "Construyo sistemas RAG de producción, pipelines de visión artificial y agentes de IA — convirtiendo investigación ML compleja en software funcional que se lanza.",
+    "cta_primary": "Agendar llamada",
+    "cta_secondary": "Ver proyectos",
+    "experience": "Años de experiencia",
+    "projects": "Proyectos entregados",
+    "specialization": "Enfoque AI/ML"
+  },
+  "services": {
+    "title": "Qué construyo",
+    "subtitle": "Especializado en la intersección entre investigación en IA e ingeniería de producción.",
+    "rag": {
+      "title": "Sistemas RAG",
+      "desc": "Pipelines de generación aumentada por recuperación — búsqueda semántica, bases de datos vectoriales, compresión de contexto y recuperación multimodal sobre tus datos.",
+      "tags": ["LangChain", "LlamaIndex", "Pinecone", "OpenAI"]
+    },
+    "vision": {
+      "title": "Visión Artificial",
+      "desc": "Pipelines CV de extremo a extremo — detección de objetos, clasificación de imágenes, OCR y procesamiento de video en tiempo real.",
+      "tags": ["PyTorch", "YOLO", "OpenCV", "ONNX"]
+    },
+    "agents": {
+      "title": "Agentes de IA",
+      "desc": "Sistemas de agentes autónomos que razonan, planifican y usan herramientas — desde flujos de trabajo de un agente hasta orquestación multi-agente.",
+      "tags": ["LangGraph", "AutoGen", "Tool Use", "MCP"]
+    },
+    "fullstack": {
+      "title": "Desarrollo Full-Stack",
+      "desc": "Sistemas CRUD complejos, dashboards en tiempo real y plataformas API — 6+ años construyendo backends escalables y frontends pulidos.",
+      "tags": ["Next.js", "FastAPI", "PostgreSQL", "Redis"]
+    }
+  },
+  "work": {
+    "title": "Proyectos Seleccionados",
+    "subtitle": "Proyectos reales — algunos anonimizados por NDA. Más casos de estudio próximamente.",
+    "live": "Demo en vivo",
+    "code": "Código",
+    "coming": "Próximamente"
+  },
+  "playground": {
+    "title": "Playground de IA",
+    "subtitle": "Prueba un demo RAG en vivo — trae tu propia clave OpenAI. Tu clave permanece en tu navegador.",
+    "key_label": "Clave API de OpenAI",
+    "key_placeholder": "sk-...",
+    "key_note": "Solo en memoria. Nunca enviada a nuestros servidores.",
+    "query_label": "Pregunta algo",
+    "query_placeholder": "¿Qué es la generación aumentada por recuperación?",
+    "send": "Enviar",
+    "thinking": "Pensando...",
+    "enter_key": "Ingresa tu clave API de OpenAI para comenzar.",
+    "error_no_key": "Por favor ingresa tu clave API de OpenAI.",
+    "disclaimer": "Este demo usa la API de OpenAI directamente desde tu navegador."
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "subtitle": "6+ años convirtiendo investigación en IA en software de producción.",
+    "bio": "Soy Akash — ingeniero AI/ML y desarrollador full-stack basado en Ahmedabad, India. Me especializo en llevar investigación ML de vanguardia a sistemas de producción confiables y escalables. Trabajo con startups, agencias y equipos medianos en todo el mundo — principalmente remoto.",
+    "stack_title": "Stack Tecnológico",
+    "social_title": "Encuéntrame en línea",
+    "youtube": "YouTube",
+    "instagram": "Instagram",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "social": {
+    "title": "Sigue Mi Trayecto",
+    "subtitle": "Comparto tutoriales de AI/ML, walkthroughs de desarrollo y análisis de proyectos.",
+    "youtube_label": "YouTube",
+    "youtube_handle": "Akash Code Cafe",
+    "youtube_desc": "Tutoriales AI/ML, construcción de proyectos",
+    "instagram_label": "Instagram",
+    "instagram_handle": "@akash_code_cafe",
+    "instagram_desc": "Actualizaciones dev, experimentos ML",
+    "subscribers": "suscriptores",
+    "followers": "seguidores",
+    "watch": "Ver",
+    "follow": "Seguir"
+  },
+  "contact": {
+    "title": "Trabajemos Juntos",
+    "subtitle": "Disponible para proyectos freelance, consultoría y colaboraciones a largo plazo.",
+    "form_name": "Tu nombre",
+    "form_email": "Correo electrónico",
+    "form_project": "Cuéntame sobre tu proyecto",
+    "form_budget": "Presupuesto aproximado (opcional)",
+    "form_send": "Enviar mensaje",
+    "form_sending": "Enviando...",
+    "form_success": "¡Mensaje enviado! Te responderé en 24 horas.",
+    "form_error": "Algo salió mal. Por favor escríbeme directamente.",
+    "or": "o",
+    "email_direct": "Escribir directamente",
+    "response_time": "Tiempo de respuesta: dentro de 24 horas",
+    "timezone": "IST (UTC+5:30) — compatible con trabajo asíncrono"
+  },
+  "footer": {
+    "built": "Construido con Next.js y desplegado en Vercel",
+    "rights": "Todos los derechos reservados.",
+    "download_resume": "Descargar CV"
+  }
+}
