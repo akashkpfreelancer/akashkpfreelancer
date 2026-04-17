@@ -23,7 +23,7 @@ const projects = [
     type: "rag",
     nda: true,
     liveUrl: null,
-    githubUrl: null,
+    githubUrl: "https://github.com/akashkpfreelancer/rag-production-starter",
     accentColor: "cyan",
   },
   {
@@ -35,7 +35,7 @@ const projects = [
     type: "vision",
     nda: true,
     liveUrl: null,
-    githubUrl: null,
+    githubUrl: "https://github.com/akashkpfreelancer/cv-edge-pipeline",
     accentColor: "violet",
   },
   {
@@ -46,8 +46,8 @@ const projects = [
     stack: ["LangGraph", "OpenAI", "Tavily", "FastAPI", "Next.js"],
     type: "agents",
     nda: false,
-    liveUrl: "#playground",
-    githubUrl: "https://github.com/akashpatel",
+    liveUrl: "/#playground",
+    githubUrl: "https://github.com/akashkpfreelancer/langraph-research-agent",
     accentColor: "cyan",
   },
   {
